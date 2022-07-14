@@ -41,10 +41,10 @@ If you are a programmer and you didn't know Autohotkey, give it try:
 
 ## Antivirus blocking Autohotkey language
 Some antivirus give false positives with Autohotkey language, with which this utility has been programmed. If you find yourself in this situation:
-* You can check that the file is virus-free with the vast majority of major antiviruses at the 's multiantivirus analyser [www.virustotal.com](https://www.virustotal.com/)
+* You can check that the file is virus-free with the vast majority of antiviruses at the multiantivirus analyser [www.virustotal.com](https://www.virustotal.com/)
 * If you have programming skills, you can take a look to the source code and compile it yourself (you have to download and install Autohotkey from [www.autohotkey.com](https://www.autohotkey.com/) and compile it with "Convert .ahk to .exe" utility)
 
-Sadly, this is a common situation that happens with some antivirus that use an ultra-aggressive approach that generate false-positives. You can read this article from Nirsoft: [Antivirus companies cause a big headache to small developers](http://blog.nirsoft.net/2009/05/17/antivirus-companies-cause-a-big-headache-to-small-developers/).
+Sadly, this is a common situation that happens with some antivirus that use an ultra-aggressive approach that generates false-positives. You can read this article from Nirsoft: [Antivirus companies cause a big headache to small developers](http://blog.nirsoft.net/2009/05/17/antivirus-companies-cause-a-big-headache-to-small-developers/).
 
 To solve this problem and if you have enough privileges on the computer, you can register an exception for *WhereIsMyMouse.exe* in the antivirus configuration.
 
