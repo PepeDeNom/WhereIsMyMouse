@@ -32,6 +32,9 @@ To deactivate the spotlight:
 * Escape key
 * Wait a few seconds without moving the mouse
 
+Preferences:
+In the tray menu of this utility you can find the preferences. There you can configure the size of the spotlight circle, the speed of the animation and if you want this utility to start automatically at windows startup.
+
 ## Technology
 This utility is entirely written in Autohotkey v1.1, which is a widely used opensource programming language which allows to write very cool utilities easily.
 
