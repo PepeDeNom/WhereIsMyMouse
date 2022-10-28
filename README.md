@@ -33,6 +33,7 @@ To deactivate the spotlight:
 * Wait a few seconds without moving the mouse
 
 Preferences:
+
 In the tray menu of this utility you can find the preferences. There you can configure the size of the spotlight circle, the speed of the animation and if you want this utility to start automatically at windows startup.
 
 ## Technology
