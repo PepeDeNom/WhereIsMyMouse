@@ -44,7 +44,7 @@ If you are a programmer and you didn't know Autohotkey, give it try:
 * Autohotkey source code: [github.com/Lexikos/AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L/)
 
 ## Antivirus blocking Autohotkey language
-Some antivirus give false positives with Autohotkey language, with which this utility has been programmed. If you find yourself in this situation:
+Some antivirus gives false positives with Autohotkey language, with which this utility has been programmed. If you find yourself in this situation:
 * You can check that the file is virus-free with the vast majority of antiviruses at the multiantivirus analyser [www.virustotal.com](https://www.virustotal.com/)
 * If you have programming skills, you can take a look to the source code and compile it yourself (you have to download and install Autohotkey from [www.autohotkey.com](https://www.autohotkey.com/) and compile it with "Convert .ahk to .exe" utility)
 
@@ -62,7 +62,7 @@ Thanks to tic (Tariq Porter) for his GDI+ Library.
 
 Thanks to Maxim Basinski for his magnifying glass icon.
 - Author: Maxim Basinski
-- License: CC Atribution
+- License: CC Attribution
 - Source: https://icon-icons.com/es/icono/lupa-b%C3%BAsqueda-magnifing-gafas/78347
 
 And above all, thanks to the entire autohotkey community.
