@@ -479,6 +479,7 @@ ReadConfig(isFichero) {
 		IniWrite, %gsAlternativeHotkey%, %isFichero%, GENERAL, AlternativeHotkey
 	}
 	nSpotlightRadius := round(gnSpotlightDiameter /2)
+	(gsAlternativeHotkey=A_Space) ? (gsAlternativeHotkey:="")
 }
 
 ;-------------------------------------------------------------------------
